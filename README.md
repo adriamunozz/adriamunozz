@@ -8,9 +8,6 @@
 
 </head>
 <body>
-    <header>
-        <center><h1>Adrià Muñoz's Portfolio</h1></center>
-    </header>
     <section id="projects">
         <h2>My current projects</h2>
         <ul>
