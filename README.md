@@ -11,7 +11,7 @@
     <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
         <h2>My current projects</h2>
         <ul>
-            <li>I'm currently building a Wordpress website to hosts all my computer science tutorials</li>
+            <li>I'm currently building aa Wordpress website to hosts all my computer science tutorials</li>
             <li>I'm currently administrating and hosting my own perosnal proxmox server </li>
             <li>i'm currently Learning some Programming languages:</li>
         </ul>
