@@ -7,7 +7,7 @@
     <h1>Hi, i'm Adrià Muñoz 🫶</h1>
 </head>
 <body>
-    <section id="projects">
+    <section id="projects"> <p>a</p>
     <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
         <h2>My current projects</h2>
         <ul>
