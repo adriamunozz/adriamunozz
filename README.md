@@ -3,23 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adrià Muñoz's Portfolio</title>
     <link rel="stylesheet" type="text/css" href="readme.css">
-    <h1>Hi, i'm Adrià Muñoz 🫶</h1>
+
 </head>
 <body>
-    <section id="projects"> <p>a</p>
-        <h2>My current projects</h2>
-        <ul>
-            <li>I'm currently building a Wordpress website to hosts all my computer science tutorials</li>
-            <li>I'm currently administrating and hosting my own perosnal proxmox server </li>
-            <li>i'm currently Learning some Programming languages:</li>
-        </ul>
+    <header> <!--Titulo y Subtitulo-->
+        <center><h1>Hi, I'm Adrià Muñoz 👋🏻💻</h1></center>
+        <center><h2>I'm a Junior developer located in Spain</h2></center>
+    </header>
+    <section> <!--Aqui tengo los link a mis redes sociales-->
+        [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/adriamunozz)
+        [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adriamunozz/)
+        [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/adriamunozz/)
+        [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amunozgrisau@gmail.com)
     </section>
-    <section id="about me">
+    <section> <!--Imagen del gato de GitHub-->
+        <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+    </section>
+    <section> <!--Proyectos en los que estoy trabajando actualmente-->
+        <h2>My current projects👨🏻‍💼</h2>
+        <ul>
+            <li>building locally a Wordpress website to hosts all my computer science tutorials</li>
+            <li>administrating and hosting my own perosnal proxmox server </li>
+            <li>Learning some programming languages</li>
+        <ul>
+    </section>
+    <section> <!--Sobre mi-->
         <h2>About me</h2>
         <p>Hi, I'm Adrià Muñoz, a junior developer located in Spain. I have a passion for building innovative software solutions and exploring new technologies. Welcome to my GitHub portfolio, where you can explore my journey in software development.</p>
     </section>
-    <section id="Skills">
+    <section> <!--Habilidades-->
         <h2>Skills</h2>
         <ul>
             <li>HTML5</li>
@@ -30,14 +44,3 @@
     </section>
 </body>
 </html>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
