@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="readme.css">
-    <h1>Hola, Soy Adrià Muñoz 🫶</h1>
+    <h1>Hi, i'm Adrià Muñoz 🫶</h1>
 </head>
 <body>
     <section id="projects">
