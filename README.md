@@ -8,6 +8,7 @@
 </head>
 <body>
     <section id="projects">
+    <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
         <h2>My current projects</h2>
         <ul>
             <li>I'm currently building a Wordpress website to hosts all my computer science tutorials</li>
